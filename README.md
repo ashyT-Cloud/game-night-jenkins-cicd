@@ -158,3 +158,4 @@ The current pipeline is manually triggered through Jenkins. GitHub webhook-based
 ---
 
 *Built as a practical project to learn Jenkins CI/CD, Docker, AWS EC2, automated testing, and deployment workflows.*
+
