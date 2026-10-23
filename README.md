@@ -142,6 +142,20 @@ The agent requires Java for Jenkins remoting, Git for source checkout, Python 3 
 
 The current pipeline is manually triggered through Jenkins. GitHub webhook-based automatic triggering is a planned enhancement.
 
+## 📸 Project Screenshots
+
+### Jenkins CI/CD Pipeline
+![Successful Jenkins Pipeline](docs/screenshots/jenkins-pipeline-success.png)
+
+### Jenkins Agent
+![Jenkins Agent Online](docs/screenshots/jenkins-agent-online.png)
+
+### GitHub Webhook
+![Successful GitHub Webhook Delivery](docs/screenshots/github-webhook-success.png)
+
+### Space Shooter Game
+![Space Shooter Gameplay](docs/screenshots/space-shooter-game.png)
+
 ## 🔮 Future Improvements
 
 - Trigger builds automatically using a GitHub webhook.
